@@ -5,7 +5,7 @@ def fib(limit):
     # One by one yield next Fibonacci Number
     while a < limit:
         yield a
-        print "inside function call value of a",a
+        #print "inside function call value of a",a
         a, b = b, a + b
 
 x=fib(8)
@@ -25,5 +25,5 @@ for i in fib(5):
     print(i)
 
 
-    
+
 

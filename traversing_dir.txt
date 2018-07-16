@@ -1,0 +1,5 @@
+#!/usr/bin/python27
+
+import os
+
+ar=os.walk('C:\home\')
