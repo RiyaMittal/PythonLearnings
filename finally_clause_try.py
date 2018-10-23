@@ -13,4 +13,4 @@ def divide(x, y):
 
 
 # Look at parameters and note the working of Program
-divide(3, "3")
+divide(3, 0)

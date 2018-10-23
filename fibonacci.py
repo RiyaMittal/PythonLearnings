@@ -18,11 +18,11 @@ print(x.next())
 print(x.next())
 #print(x.next())
 
-
-#using for loop
-print("\nUsing for in loop")
-for i in fib(5):
-    print(i)
+#
+# #using for loop
+# print("\nUsing for in loop")
+# for i in fib(5):
+#     print(i)
 
 
 

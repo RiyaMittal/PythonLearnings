@@ -8,7 +8,7 @@ import fnmatch
 word_list=[]
 word_count=[]
 word_dic={}
-for dirName,subDirName,fileList in os.walk('C:\home'):
+for dirName,subDirName,fileList in os.walk('C:\\usr'):
     print ("Found Directory: %s"%dirName)
     print ("subdirectory: %s" %subDirName)
     #print fileList

@@ -37,6 +37,6 @@ print value_list
 for each_value in value_list:
     for new_each_value in value_list:
         if (each_value==new_each_value)& (value_list.index('new_each_value')<>value_list.index(each_value):
-            new_dict[]
+
 
 
